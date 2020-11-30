@@ -1,0 +1,58 @@
+{
+    "module":[
+  
+        {
+            "proider": "ibm",
+            "name": "IBM Cloud Cluster",
+            "location": "https://github.com/ibm-garage-cloud/terraform-ibm-container-platform.git",
+            "features": "M",
+            "latestrelease": "v1.16.4",
+            "category": "todo"
+          }
+          ,
+          {
+            "proider": "ibm",
+            "name": "Cloud Operator",
+            "location": "https://github.com/ibm-garage-cloud/terraform-ibm-cloud-operator/tree/v1.0.0",
+            "features": "M,G",
+            "latestrelease": "v1.0.0",
+            "category": "todo"
+          }
+          ,
+          {
+            "proider": "ibm",
+            "name": "Activity Tracker",
+            "location": "https://github.com/ibm-garage-cloud/terraform-ibm-activity-tracker.git",
+            "features": "",
+            "latestrelease": "v1.1.1",
+            "category": "todo"
+          }
+          ,
+          {
+            "proider": "k8s",
+            "name": "OpenShift cluster",
+            "location": "https://github.com/ibm-garage-cloud/terraform-k8s-ocp-cluster",
+            "features": "M",
+            "latestrelease": "",
+            "category": "todo"
+          }
+          ,
+          {
+            "proider": "k8s",
+            "name": "Namespace",
+            "location": "https://github.com/ibm-garage-cloud/terraform-k8s-namespace.git",
+            "features": "M",
+            "latestrelease": "",
+            "category": "todo"
+          }
+          ,
+          {
+            "proider": "k8s",
+            "name": "Service Account",
+            "location": "https://github.com/ibm-garage-cloud/terraform-k8s-namespace.git",
+            "features": "M",
+            "latestrelease": "",
+            "category": "todo"
+          }          
+        ]
+      }
